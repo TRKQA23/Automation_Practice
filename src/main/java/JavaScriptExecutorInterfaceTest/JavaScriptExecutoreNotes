@@ -1,0 +1,26 @@
+- What is JavascriptExecutor?
+- JavascriptExecutor interface
+- executeScript()
+- Purpose of JavascriptExecutor in Selenium
+- Running JavaScript code in Selenium
+- JavaScript Basics
+- DOM (Document Object Model) basics
+- DOM Methods
+- querySelector()
+- document.getElementById()
+- document.getElementsByName()[index]
+- document.getElementsByClassName()[index]
+- document.getElementsByTagName()[index]
+- document.querySelector()
+- click()
+- DOM Properties
+- innerHTML
+- id
+- document.title
+- document.URL
+- value
+- HTML DOM Style Object
+- style.color
+- style.background
+- style.border
+- And many more

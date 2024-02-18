@@ -1,0 +1,10 @@
+- Taking screenshot of the visible area of the page using Selenium
+- Taking screenshot of only a UI Web element on the page using Selenium
+- Taking screenshot of a section of the page using Selenium
+- Taking screenshot of the Full Page using Selenium in Firefox browser
+- Copying the screenshots to the desired location using FileUtils, ImageIO and FileHandler
+- FileUtils from Apache Commons io
+- FileHandler from Selenium
+- Robot class in Java for taking screenshot with URLs and screenshots of displayed Alerts on the page
+- AShot API for taking full page screenshots in all browsers
+- And many more.
